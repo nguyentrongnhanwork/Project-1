@@ -1,4 +1,7 @@
 Introduction
 This is my first project
+<<<<<<< HEAD
 Implement in GitHub Desktop 
+=======
 Start implementing
+>>>>>>> 97521c082e37cc8a52da9d434c0c2dadec660261
